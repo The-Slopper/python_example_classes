@@ -2,7 +2,7 @@
 # (c) 2026 Example Org - MIT
 .PHONY: install build test run docker clean
 
-APP_NAME = python_example_classes
+APP_NAME = python_example_classs
 PORT = 8000
 
 install:
